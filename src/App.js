@@ -9,9 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header name= 'Pete' />
-        
-        
-    
+      <Main animals={animals} />
     </div>
   );
 }
