@@ -1,6 +1,6 @@
 main{
     display: flex;
-    margin-bottom: 40px;
+    justify-content: center;
     background-size: cover;
     height: calc(100vh - 80px);
     align-content: flex-start;
