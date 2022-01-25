@@ -1,0 +1,8 @@
+Footer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(21, 139, 139);
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+}

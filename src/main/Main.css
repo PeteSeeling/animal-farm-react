@@ -1,0 +1,9 @@
+main{
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    height: calc(100vh - 80px);
+    align-content: flex-start;
+    
+  }
+  
