@@ -1,8 +1,8 @@
 
 import './App.css';
 import Header from './Header/Header.js';
-import Footer from './Footer/Footer.js';
-import Main from './Main/Main.js';
+import Footer from './footer/footer.js';
+import Main from './main/main.js';
 import { animals } from './AnimalList.js';
 
 
