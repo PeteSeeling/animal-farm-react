@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Header name= 'Pete Seeling' />
       <Main animals={animals} />
-      <Footer year= '2022' />
+      <Footer email= 'peteseeling@gmail.com' />
     </div>
   );
 }
