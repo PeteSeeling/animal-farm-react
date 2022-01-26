@@ -1,6 +1,6 @@
 import React from 'react';
 import backgroundImg from '../background.png';
-import AnimalCard from '../AnimalCard/AnimalCard';
+import AnimalCard from '../AnimalCard/AnimalCard.js';
 import './Main.css';
 
 export default function Main(props){
