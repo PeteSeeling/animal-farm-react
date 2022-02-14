@@ -1,6 +1,7 @@
 import './AnimalCard.css';
+import { Component } from 'react/cjs/react.production.min';
 
-export default function AnimalCard(props){
+export default function __AnimalCard(props){
   return <div className = "animal-card">
     {props.name}
     <img src ={`./Animals/${props.type}.svg`}/>
